@@ -1,4 +1,5 @@
 # Chinese Technical Terms
+
 I created this repository to collect each new Chinese technical term that I learn. I hope it will be useful for anyone who knows some Chinese and needs to discuss technical stuff in Chinese. Please feel free to contribute to this list or report any mistakes.
 
 # A
@@ -56,6 +57,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Directory 目录 (mù lù)
 - Domain 域名 (yù míng)
 - Documentation 文档 (wén dàng)
+- Download 下载 (xià zǎi)
 - Dependency 依赖 (yī lài)
 - Development Environment 开发环境 (kāi fà huán jìng)
 
@@ -120,7 +122,6 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Node 节点 (jié diǎn)
 
-
 # O
 
 - Online 上线/线上 (shàng xiàn / xiàn shàng)
@@ -164,6 +165,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Revenue 营收 (yíng shōu)
 - Reverse Proxy 反向代理 (fǎn xiàng dài lǐ)
 - RAM 内存 (nèi cún)
+- Rigging 绑定 (bǎng dìng)
 - Run 运行 (yùn xíng)
 - Runtime environment 运行时环境 (yùnxíng shí huánjìng)
 - Rollback 回滚 (huí gǔn)
@@ -220,3 +222,4 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Webhook 钩子 (gōu zǐ）
 - Wrap 封装 (fēng zhuāng)
+
